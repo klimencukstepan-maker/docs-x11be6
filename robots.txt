@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-p2dhji.pulaucuan.org/sitemap.xml
